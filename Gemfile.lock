@@ -3,7 +3,7 @@ PATH
   specs:
     sorcery-jwt (0.1.11)
       jwt (>= 1.0, < 3.0)
-      sorcery (>= 0.13, < 0.16)
+      sorcery (>= 0.13)
 
 GEM
   remote: https://rubygems.org/
